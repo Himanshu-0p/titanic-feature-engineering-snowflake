@@ -23,3 +23,20 @@ This project demonstrates a complete **feature engineering pipeline** for the Ti
 - **Survival Rate:** 38.38%
 
 **Download:**
+https://www.kaggle.com/datasets/yasserh/titanic-dataset
+
+
+---
+
+## 🏗️ Architecture & Technology Stack
+
+### Technologies Used
+| Component | Technology |
+|-----------|-----------|
+| **Database** | Snowflake |
+| **Data Processing** | SQL, Snowpark Python |
+| **Feature Store** | Snowflake Feature Store |
+| **Languages** | SQL, Python 3.11 |
+| **Libraries** | pandas, numpy, scikit-learn |
+
+### Infrastructure
