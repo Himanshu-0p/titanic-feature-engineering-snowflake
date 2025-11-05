@@ -41,21 +41,21 @@ https://www.kaggle.com/datasets/yasserh/titanic-dataset
 
 ### Infrastructure
 
+```text
 Raw Data (CSV)
-↓
+      ↓
 Snowflake RAW_TITANIC Table
-↓
+      ↓
 Feature Engineering Pipeline (6 stages)
 ├── FEATURES_BASIC
 ├── FEATURES_AGGREGATED
 ├── FEATURES_CLEANED
 ├── FEATURES_ENCODED
 └── FEATURES_NORMALIZED
-↓
+      ↓
 Feature Store
-↓
+      ↓
 Train/Test Data Ready for ML
-
 
 ---
 
