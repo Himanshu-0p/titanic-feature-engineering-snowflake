@@ -8,8 +8,6 @@
 
 This project demonstrates a complete **feature engineering pipeline** for the Titanic dataset using **Snowflake** and **Feature Stores**. The goal is to predict passenger survival by transforming raw data into meaningful features through multiple engineering stages.
 
-**Assignment:** Vistora AI - AI/ML Feature Engineering with Snowflake
-
 ---
 
 ## 📊 Dataset
